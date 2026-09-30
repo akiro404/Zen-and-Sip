@@ -1,0 +1,18 @@
+{
+  "name": "Zen & Sip Admin",
+  "short_name": "ZnS Admin",
+  "description": "Admin dashboard for Zen & Sip",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#3d5a3e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

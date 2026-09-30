@@ -1,0 +1,9 @@
+# robots.txt — Zen & Sip (https://zennsip.com)
+User-agent: *
+Allow: /
+
+# Block admin dashboard from indexing
+Disallow: /#dashboard
+
+# Sitemap location
+Sitemap: https://zennsip.com/sitemap.xml
